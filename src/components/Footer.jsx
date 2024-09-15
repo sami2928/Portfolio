@@ -33,10 +33,7 @@ const Footer = () => {
           >
             <FaInstagram />
           </a>
-          <a
-            href="https://www.facebook.com/profile.php?id=100017736079297"
-            target="_blank"
-          >
+          <a href="https://www.facebook.com/samiulhaq307/" target="_blank">
             <FaFacebook />
           </a>
         </div>
